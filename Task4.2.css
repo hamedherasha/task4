@@ -1,0 +1,32 @@
+
+img {
+
+    margin-right: 10%;
+    float: left;
+    width: 400px;
+    height: 400px;
+    margin-left: 10%
+  
+}
+ 
+.text{
+    margin-top: 10%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+    color: #777777;
+}
+h2{
+    font-size: 35px;    
+}
+button{
+    width: 150px;
+    height: 50px;
+    background-color: slateblue;
+    border-radius: 12px;
+    border-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;  
+
+}
